@@ -1,0 +1,11 @@
+Adam Karrer  04/26/2013
+
+SALES RECEIPT
+Unit Price: 1.50
+Quantity: 5
+
+Subtotal: $7.50
+
+nSales Tax: $0.45
+
+Total: $7.95
